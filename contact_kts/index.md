@@ -21,7 +21,7 @@ to provide a professional and efficent solution to solve your technology needs.
 <img src="{{ site.url }}/contact_kts/mylogo2.png"/>
   
 
-  <form id="myForm" method="POST" action="http://formspree.io/kabton14@gmail.com">
+  <form id="myForm" method="POST" action="//formspree.io/kabton14@gmail.com">
       <hr>
     <div class="accounttype">
       <input type="radio" value="None" id="radioOne" name="account" checked/>
