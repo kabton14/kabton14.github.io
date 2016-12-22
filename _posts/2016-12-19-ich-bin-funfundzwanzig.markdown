@@ -6,7 +6,7 @@ date:   2016-12-19 16:00:00 -0500
 categories: life
 comments: true
 ---
-Ah... The big 2 & 5. Quarter of a century upon this place we call earth. The past 25 years have taught me so many lessons and I think I have experienced tremendous growth in most areas of my life because of these lessons. The past year has taught me some particularly difficult lessons and so many things have transpired in this relatively short time span that will permanently change my life.
+Ah... The big 2 & 5. Quarter of a century upon this place we call earth. The past 25 years have taught me so many lessons and I think I have experienced tremendous growth in most areas of my life because of these lessons. The past year has taught me some particularly difficult lessons; so many things have transpired in this relatively short time span that will permanently change my life.
 
 Earlier in the year, I was diagnosed with multiple sclerosis (ms). The news of this diagnosis hit like a ten-tonne brick. I kept asking myself, why I, a young man from Jamaica (where this disease is extremely rare and next to unheard of) with a relatively healthy lifestyle, would be struck with such misfortune. It was an extremely difficult thing for my family and me to accept and it could be said that we went through a grieving process. 
 
