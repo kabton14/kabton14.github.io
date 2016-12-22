@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Ich bin fünfundzwanzig"
-date:   2016-12-19 21:02:10 -0500
+date:   2016-12-19 01:02:10 -0500
 
 categories: life
+comments: true
 ---
 Ah... The big 2 & 5. Quarter of a century upon this place we call earth. The past 25 years have taught me so many lessons and I think I have experienced tremendous growth in most areas of my life because of these lessons. The past year has taught me some particularly difficult lessons and so many things have transpired in this relatively short time span that will permanently change my life.
 
