@@ -1,11 +1,13 @@
 ---
 layout: page
 title: 
+comments: true
 permalink: /contact_kts/
+
 ---
 
 
-We specialize in technology consulting services, web-development and software development. Please don't hesitate to contact us today as we arey ready
+We specialize in technology consulting services, web-development and software development. Please don't hesitate to contact us today as we are ready
 to provide a professional and efficent solution to solve your technology needs.
 
 
@@ -21,7 +23,7 @@ to provide a professional and efficent solution to solve your technology needs.
 <img src="{{ site.url }}/contact_kts/mylogo2.png"/>
   
 
-  <form id="myForm" method="POST" action="http://formspree.io/kabton14@gmail.com">
+  <form id="myForm" method="POST" action="//formspree.io/kabton14@gmail.com">
       <hr>
     <div class="accounttype">
       <input type="radio" value="None" id="radioOne" name="account" checked/>

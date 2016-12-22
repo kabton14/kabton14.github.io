@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 
+comments: true
 permalink: /contact_kts/
 ---
 
