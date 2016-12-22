@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-20T21:24:31-05:00</updated><id>http://localhost:4000//</id><title type="html">kabtonnetworks</title><subtitle>Put your heart, mind, and soul into even your smallest acts. This is the secret of success. -Swami Sivananda
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-21T22:50:53-05:00</updated><id>http://localhost:4000//</id><title type="html">kabtonnetworks</title><subtitle>Put your heart, mind, and soul into even your smallest acts. This is the secret of success. -Swami Sivananda
 </subtitle><entry><title type="html">Ich bin fünfundzwanzig</title><link href="http://localhost:4000/life/2016/12/19/ich-bin-funfundzwanzig.html" rel="alternate" type="text/html" title="Ich bin fünfundzwanzig" /><published>2016-12-19T21:02:10-05:00</published><updated>2016-12-19T21:02:10-05:00</updated><id>http://localhost:4000/life/2016/12/19/ich-bin-funfundzwanzig</id><content type="html" xml:base="http://localhost:4000/life/2016/12/19/ich-bin-funfundzwanzig.html">&lt;p&gt;Ah… The big 2 &amp;amp; 5. Quarter of a century upon this place we call earth. The past 25 years have taught me so many lessons and I think I have experienced tremendous growth in most areas of my life because of these lessons. The past year has taught me some particularly difficult lessons and so many things have transpired in this relatively short time span that will permanently change my life.&lt;/p&gt;
 
 &lt;p&gt;Earlier in the year, I was diagnosed with multiple sclerosis (ms). The news of this diagnosis hit like a ten-tonne brick. I kept asking myself, why I, a young man from Jamaica (where this disease is extremely rare and next to unheard of) with a relatively healthy lifestyle, would be struck with such misfortune. It was an extremely difficult thing for my family and me to accept and it could be said that we went through a grieving process.&lt;/p&gt;
@@ -45,4 +45,33 @@ Do not ever get too fearful, so as to stop dreaming and reaching forward. There 
 
 &lt;p&gt;This concept has kept me afloat on my darkest days. I have realized that you cannot remain despondent if you are grateful. Being grateful promotes a sense of humility and gives your life meaningful perspective. Being grateful allows you to realize how small your problems are compared to other peoples’ problems. Being grateful makes you realize that despite the negative things you might be grappling with, there are also positive things to think about too. In my opinion, life is neither all good nor all bad. There is always something to be thankful for and  something bad to be stronger from.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;To life, prosperity and strength for 2017!&lt;/em&gt;&lt;/p&gt;</content><summary type="html">Ah… The big 2 &amp;amp; 5. Quarter of a century upon this place we call earth. The past 25 years have taught me so many lessons and I think I have experienced tremendous growth in most areas of my life because of these lessons. The past year has taught me some particularly difficult lessons and so many things have transpired in this relatively short time span that will permanently change my life.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;To life, prosperity and strength for 2017!&lt;/em&gt;&lt;/p&gt;
+
+&lt;div id=&quot;dcomment&quot; style=&quot;margin-top:70px;&quot;&gt; 
+
+ 
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//kabtonnetworks.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+ 
+
+&lt;/div&gt;</content><summary type="html">Ah… The big 2 &amp;amp; 5. Quarter of a century upon this place we call earth. The past 25 years have taught me so many lessons and I think I have experienced tremendous growth in most areas of my life because of these lessons. The past year has taught me some particularly difficult lessons and so many things have transpired in this relatively short time span that will permanently change my life.</summary></entry></feed>
