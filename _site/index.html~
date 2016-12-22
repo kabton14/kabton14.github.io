@@ -22,9 +22,8 @@
     <header class="site-header" role="banner">
 
   <div class="wrapper">
-    <small class="site-subtitle">  <em>Kevin Beaton's</em> </small>
+
     <a class="site-title" href="/">kabtonnetworks</a>
-    
 
     <nav class="site-nav">
       <span class="menu-icon">
@@ -101,7 +100,7 @@
               kabtonnetworks
             
             </li>
-            <li><a href="mailto:kabton14@gmail.com">kabton14@gmail.com</a></li>
+            
             <li><a href="mailto:kabtontech@gmail.com">kabtontech@gmail.com</a></li>
             
         </ul>
