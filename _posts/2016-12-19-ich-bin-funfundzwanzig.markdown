@@ -46,7 +46,7 @@ As Rihanna aptly sang:
 <h1>4. Always reach forward</h1>
 
 It is extremely  important to have a goal to strive toward. Something to swim to. It is a goal that gives life purpose and a sense of direction.
-Do not ever get too fearful, so as to stop dreaming and reaching forward. There are few things more toxic to humankind than a person who finds solace in a state of stasis.
+Do not ever get too fearful and steeped in uncertainty, so as to stop dreaming and reaching forward. There are few things more toxic to humankind than a person who finds solace in a state of stasis.
 
 <h1>5. Practice an attitude of gratitude</h1>
 
