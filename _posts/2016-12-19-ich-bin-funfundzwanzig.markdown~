@@ -55,6 +55,10 @@ This concept has kept me afloat on my darkest days. I have realized that you can
 *To life, prosperity and strength for 2017!*
                       
 
+
+
+
+
 {% if page.comments %} 
 
 <div id="disqus_thread"></div>
