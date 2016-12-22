@@ -61,7 +61,7 @@ This concept has kept me afloat on my darkest days. I have realized that you can
 
 {% if page.comments %} 
 
-<div id="disqus_thread"></div>
+<div id="disqus_thread" style="margin-top:20px;"></div>
 <script>
 
 /**
