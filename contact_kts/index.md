@@ -18,7 +18,7 @@ to provide a professional and efficent solution to solve your technology needs.
 
 <div class="testbox">
 <br>
-<img src="{{ site.url }}/contact_kts/mylogo2.png"/>
+<img src="{{ site.url }}/contact_kts/logo.png"/>
   
 
   <form id="myForm" method="POST" action="//formspree.io/kabton14@gmail.com">

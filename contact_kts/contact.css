@@ -40,7 +40,7 @@ html{
 .testbox {
   margin: 20px auto;
   width: 343px; 
-  height: 464px; 
+  height: 600px; 
   -webkit-border-radius: 8px/7px; 
   -moz-border-radius: 8px/7px; 
   border-radius: 8px/7px; 
@@ -110,7 +110,7 @@ hr{
 
 input[type=text],input[type=password]{
   width: 200px; 
-  height: 39px; 
+  height: 45px; 
   -webkit-border-radius: 0px 4px 4px 0px/5px 5px 4px 4px; 
   -moz-border-radius: 0px 4px 4px 0px/0px 0px 4px 4px; 
   border-radius: 0px 4px 4px 0px/5px 5px 4px 4px; 
@@ -172,8 +172,7 @@ input[type=password]{
   -moz-box-shadow: 0 3px rgba(58,87,175,.75); 
   box-shadow: 0 3px rgba(58,87,175,.75);
   transition: all 0.1s linear 0s; 
-  top: 0px;
-  position: relative;
+     
 }
 
 #button:hover {

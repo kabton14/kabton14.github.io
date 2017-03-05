@@ -18,7 +18,7 @@ to provide a professional and efficent solution to solve your technology needs.
 
 <div class="testbox">
 <br>
-<img src="{{ site.url }}/contact_kts/mylogo2.png"/>
+<img src="{{ site.url }}/contact_kts/logo.png"/>
   
 
   <form id="myForm" method="POST" action="//formspree.io/kabton14@gmail.com">
@@ -35,7 +35,7 @@ to provide a professional and efficent solution to solve your technology needs.
   <label id="icon" for="name"><i class="icon-user"></i></label>
   <input type="text" name="name" id="name" placeholder="Name" required/>
   <label id="icon" for="name"><i class="icon-keyboard"></i></label>
-  <input type="text" name="name" id="name" placeholder="Your message" required/>
+  <input type="text" name="name" id="name" placeholder="Your message" required/>s
   <input type="submit" name="name" value="Send" id="button" />
   
   </form>
