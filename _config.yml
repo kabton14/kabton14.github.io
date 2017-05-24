@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 Read more at: https://www.brainyquote.com/quotes/topics/topic_inspirational.html
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: kabton7
+twitter_username: thekabton
 github_username:  kabton14
 sub:  by Kevin Beaton
 
